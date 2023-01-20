@@ -1,5 +1,5 @@
 <h1 align='center'>
-    Eai Galera! eu sou Jota!
+    Eai Galera! aqui é o Jota!
 </h1>
 
 <p align='center'>

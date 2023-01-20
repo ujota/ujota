@@ -27,8 +27,6 @@
     <p>📖 Analise e Desenvolvimento de Sistemas</p>
     <p>🗓️ 2020 - Atualmente</p>
     <p>📍 Centro Universitário Adventista de São Paulo, Brasil</p>
-    
-    <h1>Educação</h1>
     <h1>Experiência</h1>
     <p>👨‍💻Dev. Junior Backend</p>
     <p>🗓️ Setembro - 2022 / Atualmente</p>

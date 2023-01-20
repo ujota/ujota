@@ -23,13 +23,12 @@
 
 <details>
     <summary>📃 Resumo</summary>
-
-    ##Education
+    <h1>Educação</h1>
     - 📖 **Analise e Desenvolvimento de Sistemas**\
     🗓️ 2020 - Atualmente\
     📍 **Centro Universitário Adventista de São Paulo, Brasil**
 
-    ##Experience
+    <h1>Experiência</h1>
     -👨‍💻 **Dev. Junior Backend**\
     🗓️ Setembro - 2022 / Atualmente\
     📍 **<a href="https://www.noarcloud.com/">NOAR CLOUD</a>**

@@ -24,10 +24,10 @@
 <details>
     <summary>📃 Resumo</summary>
     <h1>Educação</h1>
-    - 📖 **Analise e Desenvolvimento de Sistemas**\
-    🗓️ 2020 - Atualmente\
-    📍 **Centro Universitário Adventista de São Paulo, Brasil**
-
+    <p>📖 Analise e Desenvolvimento de Sistemas</p>
+    <p>🗓️ 2020 - Atualmente</p>
+    <p>📍 Centro Universitário Adventista de São Paulo, Brasil</p>
+    
     <h1>Experiência</h1>
     -👨‍💻 **Dev. Junior Backend**\
     🗓️ Setembro - 2022 / Atualmente\

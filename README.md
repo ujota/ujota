@@ -29,7 +29,7 @@
     <p>📍 Centro Universitário Adventista de São Paulo, Brasil</p>
     
     <h1>Experiência</h1>
-    -👨‍💻 **Dev. Junior Backend**\
-    🗓️ Setembro - 2022 / Atualmente\
-    📍 **<a href="https://www.noarcloud.com/">NOAR CLOUD</a>**
+    <p>👨‍💻Dev. Junior Backend</p>
+    <p>🗓️ Setembro - 2022 / Atualmente</p>
+    <p>📍 <a href="https://www.noarcloud.com/">NOAR CLOUD</a></p>
 </details>

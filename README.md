@@ -25,10 +25,10 @@
     <summary>📃 Resumo</summary>
     <h1>Educação</h1>
     <p>📖 Analise e Desenvolvimento de Sistemas</p>
-    <p>🗓️ Agosto - 2020 / Atualmente</p>
+    <p>🗓️ Junho - 2023</p>
     <p>📍 Centro Universitário Adventista de São Paulo, Brasil</p>
     <h1>Experiência</h1>
-    <p>👨‍💻Dev. Junior Backend</p>
+    <p>👨‍💻Dev. Junior FullStack</p>
     <p>🗓️ Setembro - 2022 / Atualmente</p>
     <p>📍 <a href="https://www.noarcloud.com/">NOAR CLOUD</a></p>
 </details>

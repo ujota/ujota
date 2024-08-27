@@ -29,6 +29,6 @@
     <p>📍 Centro Universitário Adventista de São Paulo, Brasil</p>
     <h1>Experiência</h1>
     <p>👨‍💻Dev. Junior FullStack</p>
-    <p>🗓️ Setembro - 2022 / Atualmente</p>
+    <p>🗓️ Setembro - 2022 / Janeiro - 2024</p>
     <p>📍 <a href="https://www.noarcloud.com/">NOAR CLOUD</a></p>
 </details>

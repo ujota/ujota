@@ -16,7 +16,7 @@
 <p align='center'>
     💻 Meu setup<br /><br />
     <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/intel-core%20xeon%20E3%201270-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/AMD%20Ryzen%2053%5500-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
     <img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/nvidia-gtx%201050TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>

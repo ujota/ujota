@@ -23,10 +23,9 @@
 
 <details>
     <summary>📃 Resumo</summary>
-    <h1>Educação</h1>
+    <h1>Formação</h1>
     <p>📖 Analise e Desenvolvimento de Sistemas</p>
-    <p>🗓️ Junho - 2023</p>
-    <p>📍 Centro Universitário Adventista de São Paulo, Brasil</p>
+    <p>📍 Centro Universitário Adventista de São Paulo UNASP, Brasil</p>
     <h1>Experiência</h1>
     <p>👨‍💻Dev. Junior FullStack</p>
     <p>🗓️ Setembro - 2022 / Janeiro - 2024</p>

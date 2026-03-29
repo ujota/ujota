@@ -35,12 +35,6 @@ Desenvolvedor com experiência prática na construção de aplicações robustas
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ujota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujota&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
 ---
 
 <details>
@@ -48,8 +42,8 @@ Desenvolvedor com experiência prática na construção de aplicações robustas
   <ul>
     <li><strong>OS:</strong> Windows 11</li>
     <li><strong>CPU:</strong> AMD Ryzen 5 5500</li>
-    <li><strong>RAM:</strong> 24GB DDR4</li>
-    <li><strong>GPU:</strong> NVIDIA GTX 1050 Ti</li>
+    <li><strong>RAM:</strong> 32GB DDR4</li>
+    <li><strong>GPU:</strong> NVIDIA GTX 1050 Ti 4GB </li>
   </ul>
 </details>
 

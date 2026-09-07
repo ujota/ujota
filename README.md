@@ -43,7 +43,7 @@ Formado em **Análise e Desenvolvimento de Sistemas** (UNASP). Estagiei na **Noa
 ---
 
 <details>
-  <summary>💻 Meu Setup de Desenvolvimento</summary>
+  <summary>💻 Meu Setup de trabalho</summary>
   <ul>
     <li><strong>OS:</strong> Windows 11</li>
     <li><strong>CPU:</strong> AMD Ryzen 5 5500</li>
